@@ -1,0 +1,86 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/cjartoux/Documents/GitHub/YoutubeProject/Exam/app/src/main/AndroidManifest.xml:2:1-25:12
+	package
+		ADDED from /Users/cjartoux/Documents/GitHub/YoutubeProject/Exam/app/src/main/AndroidManifest.xml:3:5-36
+		INJECTED from /Users/cjartoux/Documents/GitHub/YoutubeProject/Exam/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/cjartoux/Documents/GitHub/YoutubeProject/Exam/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/cjartoux/Documents/GitHub/YoutubeProject/Exam/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/cjartoux/Documents/GitHub/YoutubeProject/Exam/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/cjartoux/Documents/GitHub/YoutubeProject/Exam/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from /Users/cjartoux/Documents/GitHub/YoutubeProject/Exam/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/cjartoux/Documents/GitHub/YoutubeProject/Exam/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from /Users/cjartoux/Documents/GitHub/YoutubeProject/Exam/app/src/main/AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from /Users/cjartoux/Documents/GitHub/YoutubeProject/Exam/app/src/main/AndroidManifest.xml:5:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/cjartoux/Documents/GitHub/YoutubeProject/Exam/app/src/main/AndroidManifest.xml:6:5-79
+	android:name
+		ADDED from /Users/cjartoux/Documents/GitHub/YoutubeProject/Exam/app/src/main/AndroidManifest.xml:6:22-76
+application
+ADDED from /Users/cjartoux/Documents/GitHub/YoutubeProject/Exam/app/src/main/AndroidManifest.xml:8:5-23:19
+MERGED from [com.android.support:appcompat-v7:25.2.0] /Users/cjartoux/.android/build-cache/822275a8aa41ea21f44d7359310ec8f64adb03ff/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:25.2.0] /Users/cjartoux/.android/build-cache/c81a6523f33e926c9c17b032426b68f13de366a6/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.2.0] /Users/cjartoux/.android/build-cache/dd5bbdee1ed752cd23e25f4428fce38c41249f75/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.2.0] /Users/cjartoux/.android/build-cache/6dcdf7f960f12734a431aca4a23dd21ae1b9f399/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.2.0] /Users/cjartoux/.android/build-cache/b266ec03e1a9265ede8a1bb9a8e08af8ebff9642/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.2.0] /Users/cjartoux/.android/build-cache/2aba29ad64775569fe644609bcc4a2b96d9b41f5/output/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:25.2.0] /Users/cjartoux/.android/build-cache/7709a74626458d841c90c1748cf92060c5f6d425/output/AndroidManifest.xml:23:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/cjartoux/.android/build-cache/cea63742e1d72c3efe473822ae05e512f407fe18/output/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-core-ui:25.2.0] /Users/cjartoux/.android/build-cache/0572b93e0bcd688af27be91560e8162966ccf0ba/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] /Users/cjartoux/.android/build-cache/34e911d02c7b3b76929e2c034a929ff95abbc792/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:cardview-v7:25.2.0] /Users/cjartoux/.android/build-cache/f5aa23100edc90999f6ecd9a37f481257cdd56fb/output/AndroidManifest.xml:22:5-20
+MERGED from [com.android.volley:volley:1.0.0] /Users/cjartoux/.android/build-cache/5000966082e81ded77cdff5c6e36602fa69e1279/output/AndroidManifest.xml:9:5-20
+	android:label
+		ADDED from /Users/cjartoux/Documents/GitHub/YoutubeProject/Exam/app/src/main/AndroidManifest.xml:11:9-41
+	android:supportsRtl
+		ADDED from /Users/cjartoux/Documents/GitHub/YoutubeProject/Exam/app/src/main/AndroidManifest.xml:13:9-35
+	android:roundIcon
+		ADDED from /Users/cjartoux/Documents/GitHub/YoutubeProject/Exam/app/src/main/AndroidManifest.xml:12:9-54
+	android:allowBackup
+		ADDED from /Users/cjartoux/Documents/GitHub/YoutubeProject/Exam/app/src/main/AndroidManifest.xml:9:9-35
+	android:icon
+		ADDED from /Users/cjartoux/Documents/GitHub/YoutubeProject/Exam/app/src/main/AndroidManifest.xml:10:9-43
+	android:theme
+		ADDED from /Users/cjartoux/Documents/GitHub/YoutubeProject/Exam/app/src/main/AndroidManifest.xml:14:9-40
+activity#com.example.chlo.exam.activities.VideosActivity
+ADDED from /Users/cjartoux/Documents/GitHub/YoutubeProject/Exam/app/src/main/AndroidManifest.xml:15:9-21:20
+	android:name
+		ADDED from /Users/cjartoux/Documents/GitHub/YoutubeProject/Exam/app/src/main/AndroidManifest.xml:15:19-60
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/cjartoux/Documents/GitHub/YoutubeProject/Exam/app/src/main/AndroidManifest.xml:16:13-20:29
+action#android.intent.action.MAIN
+ADDED from /Users/cjartoux/Documents/GitHub/YoutubeProject/Exam/app/src/main/AndroidManifest.xml:17:17-69
+	android:name
+		ADDED from /Users/cjartoux/Documents/GitHub/YoutubeProject/Exam/app/src/main/AndroidManifest.xml:17:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/cjartoux/Documents/GitHub/YoutubeProject/Exam/app/src/main/AndroidManifest.xml:19:17-77
+	android:name
+		ADDED from /Users/cjartoux/Documents/GitHub/YoutubeProject/Exam/app/src/main/AndroidManifest.xml:19:27-74
+uses-sdk
+INJECTED from /Users/cjartoux/Documents/GitHub/YoutubeProject/Exam/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:25.2.0] /Users/cjartoux/.android/build-cache/822275a8aa41ea21f44d7359310ec8f64adb03ff/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:25.2.0] /Users/cjartoux/.android/build-cache/c81a6523f33e926c9c17b032426b68f13de366a6/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.2.0] /Users/cjartoux/.android/build-cache/dd5bbdee1ed752cd23e25f4428fce38c41249f75/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.2.0] /Users/cjartoux/.android/build-cache/6dcdf7f960f12734a431aca4a23dd21ae1b9f399/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:25.2.0] /Users/cjartoux/.android/build-cache/b266ec03e1a9265ede8a1bb9a8e08af8ebff9642/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:25.2.0] /Users/cjartoux/.android/build-cache/2aba29ad64775569fe644609bcc4a2b96d9b41f5/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.2.0] /Users/cjartoux/.android/build-cache/7709a74626458d841c90c1748cf92060c5f6d425/output/AndroidManifest.xml:21:5-43
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/cjartoux/.android/build-cache/cea63742e1d72c3efe473822ae05e512f407fe18/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:recyclerview-v7:25.2.0] /Users/cjartoux/.android/build-cache/55dd3cd71585c4afd64272e4d86150dc8c5c0676/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-core-ui:25.2.0] /Users/cjartoux/.android/build-cache/0572b93e0bcd688af27be91560e8162966ccf0ba/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.2.0] /Users/cjartoux/.android/build-cache/34e911d02c7b3b76929e2c034a929ff95abbc792/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:cardview-v7:25.2.0] /Users/cjartoux/.android/build-cache/f5aa23100edc90999f6ecd9a37f481257cdd56fb/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.volley:volley:1.0.0] /Users/cjartoux/.android/build-cache/5000966082e81ded77cdff5c6e36602fa69e1279/output/AndroidManifest.xml:7:5-43
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.2.0] /Users/cjartoux/.android/build-cache/822275a8aa41ea21f44d7359310ec8f64adb03ff/output/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from /Users/cjartoux/Documents/GitHub/YoutubeProject/Exam/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/cjartoux/Documents/GitHub/YoutubeProject/Exam/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/cjartoux/Documents/GitHub/YoutubeProject/Exam/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/cjartoux/Documents/GitHub/YoutubeProject/Exam/app/src/main/AndroidManifest.xml

@@ -1,0 +1,7 @@
+#Wed Apr 05 16:54:50 CEST 2017
+base.0=/Users/cjartoux/Documents/GitHub/YoutubeProject/Exam/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_db0fed549f21ca3c1cac04c53dd62a32b3c45951
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/cjartoux/Documents/GitHub/YoutubeProject/Exam/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_d198a9b45b0119c8ed6f6413d17464a195778884/classes.dex
+base.1=/Users/cjartoux/Documents/GitHub/YoutubeProject/Exam/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_d198a9b45b0119c8ed6f6413d17464a195778884
+file.0=/Users/cjartoux/Documents/GitHub/YoutubeProject/Exam/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_db0fed549f21ca3c1cac04c53dd62a32b3c45951/classes.dex

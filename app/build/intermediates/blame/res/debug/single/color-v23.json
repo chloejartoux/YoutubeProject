@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "/Users/cjartoux/Documents/GitHub/YoutubeProject/Exam/app/build/intermediates/res/merged/debug/color-v23/abc_tint_seek_thumb.xml",
+        "source": "/Users/cjartoux/.android/build-cache/822275a8aa41ea21f44d7359310ec8f64adb03ff/output/res/color-v23/abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "/Users/cjartoux/Documents/GitHub/YoutubeProject/Exam/app/build/intermediates/res/merged/debug/color-v23/abc_btn_colored_borderless_text_material.xml",
+        "source": "/Users/cjartoux/.android/build-cache/822275a8aa41ea21f44d7359310ec8f64adb03ff/output/res/color-v23/abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "/Users/cjartoux/Documents/GitHub/YoutubeProject/Exam/app/build/intermediates/res/merged/debug/color-v23/abc_tint_btn_checkable.xml",
+        "source": "/Users/cjartoux/.android/build-cache/822275a8aa41ea21f44d7359310ec8f64adb03ff/output/res/color-v23/abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "/Users/cjartoux/Documents/GitHub/YoutubeProject/Exam/app/build/intermediates/res/merged/debug/color-v23/abc_tint_switch_thumb.xml",
+        "source": "/Users/cjartoux/.android/build-cache/822275a8aa41ea21f44d7359310ec8f64adb03ff/output/res/color-v23/abc_tint_switch_thumb.xml"
+    },
+    {
+        "merged": "/Users/cjartoux/Documents/GitHub/YoutubeProject/Exam/app/build/intermediates/res/merged/debug/color-v23/abc_tint_switch_track.xml",
+        "source": "/Users/cjartoux/.android/build-cache/822275a8aa41ea21f44d7359310ec8f64adb03ff/output/res/color-v23/abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "/Users/cjartoux/Documents/GitHub/YoutubeProject/Exam/app/build/intermediates/res/merged/debug/color-v23/abc_color_highlight_material.xml",
+        "source": "/Users/cjartoux/.android/build-cache/822275a8aa41ea21f44d7359310ec8f64adb03ff/output/res/color-v23/abc_color_highlight_material.xml"
+    },
+    {
+        "merged": "/Users/cjartoux/Documents/GitHub/YoutubeProject/Exam/app/build/intermediates/res/merged/debug/color-v23/abc_btn_colored_text_material.xml",
+        "source": "/Users/cjartoux/.android/build-cache/822275a8aa41ea21f44d7359310ec8f64adb03ff/output/res/color-v23/abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "/Users/cjartoux/Documents/GitHub/YoutubeProject/Exam/app/build/intermediates/res/merged/debug/color-v23/abc_tint_default.xml",
+        "source": "/Users/cjartoux/.android/build-cache/822275a8aa41ea21f44d7359310ec8f64adb03ff/output/res/color-v23/abc_tint_default.xml"
+    },
+    {
+        "merged": "/Users/cjartoux/Documents/GitHub/YoutubeProject/Exam/app/build/intermediates/res/merged/debug/color-v23/abc_tint_edittext.xml",
+        "source": "/Users/cjartoux/.android/build-cache/822275a8aa41ea21f44d7359310ec8f64adb03ff/output/res/color-v23/abc_tint_edittext.xml"
+    },
+    {
+        "merged": "/Users/cjartoux/Documents/GitHub/YoutubeProject/Exam/app/build/intermediates/res/merged/debug/color-v23/abc_tint_spinner.xml",
+        "source": "/Users/cjartoux/.android/build-cache/822275a8aa41ea21f44d7359310ec8f64adb03ff/output/res/color-v23/abc_tint_spinner.xml"
+    }
+]
